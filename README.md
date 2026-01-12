@@ -1,6 +1,6 @@
 # Tweet Sentiment & Classification Analysis
 
-This project explores social media data (tweets) to perform sentiment analysis, topic modeling, and classification. It utilizes a variety of techniques ranging from traditional machine learning algorithms like SVM to deep learning architectures like LSTM, but mostly focuses on LinearSVC.
+This project explores social media data (tweets) to perform sentiment analysis, topic modeling, and classification. It utilizes a variety of techniques ranging from traditional machine learning algorithms like SVM to deep learning architectures like LSTM and LinearSVC.
 
 ## 📊 Project Overview
 
